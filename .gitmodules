@@ -1,0 +1,3 @@
+[submodule "symphony-public-sub"]
+	path = symphony-public-sub
+	url = https://github.com/Avec-Global-Pty-Ltd/symphony-public-sub
